@@ -1,0 +1,34 @@
+{
+  "Energy Manager": {
+    "Energy Manager Meters": [
+      {
+        "name": "Site name",
+        "type": "string"
+      },
+      {
+        "name": "Meter ID",
+        "type": "string"
+      },
+      {
+        "name": "Meter type",
+        "type": "string"
+      }
+    ]
+  },
+  "Operations Manager": {
+    "Operations Manager Equipments": [
+      {
+        "name": "Equipment ID",
+        "type": "string"
+      },
+      {
+        "name": "Equipment type",
+        "type": "string"
+      },
+      {
+        "name": "Points count",
+        "type": "integer"
+      }
+    ]
+  }
+}
